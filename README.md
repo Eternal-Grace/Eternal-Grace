@@ -1,7 +1,7 @@
-### Hi there 👋
+## Welcome! 👋
 
-**Eternal-Grace** is the account in which I'll be publishing codes for educational purposes...
+My name's G. and I'm glad that you were able to come to this place.
 
-Things that I've known, am learning and plan to aqcuire.
+#### Feel free to contact me. And say [Hi](mailto:contact@genitus.tech)
 
-![:name](https://count.loli.by/get/@Eternal-Grace?theme=rule34)
+![Eternal-Grace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternal-Grace&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
